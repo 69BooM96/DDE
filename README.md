@@ -68,7 +68,7 @@ After sending, the dictionary is updated — new tokens are generated for subseq
 
 ## How It Works (Diagram)
 
-Original Message → Tokenization → Multi-Token Selection → Encoded Stream → Send → Dictionary Update → Recipient Decoding
+Original Message → Tokenization → Multi-Token Selection → Encoded Stream → Send → Recipient Decoding → Dictionary Update
 
 ---
 
